@@ -21,15 +21,10 @@ chapters:
             heading: Variants
             music:
               - id: 1
-                instructions: "Whole Bow"
-              - id: 2
-                instructions: "Half Bow"
-              - id: 3
-                instructions: "In the middle"
           - id: examples
             heading: "Examples"
             music:
-              - id: 4
+              - id: 1
       - title: "No. 3"
         subtitle: "Rhythmic exericses and dividing the bow length"
         instructions: "Examples in whole notes with 57 variants. Practice the \
@@ -52,8 +47,11 @@ chapters:
               - id: 4
                 instructions: "In the middle"
               - id: 5
+                instructions: "Pichettato (Short)"
+              - id: 6
                 instructions: "One-third of the bow"
       - title: "No. 4"
+        break_before: true
         subtitle: "Study in half-notes with 75  variants"
         groups:
           - id: examples

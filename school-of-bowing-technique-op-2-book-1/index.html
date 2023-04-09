@@ -38,11 +38,15 @@
       }
 
       .break {
-        page-break-after: always;
+        break-after: always;
       }
 
       .no-break {
-        page-break-after: avoid;
+        break-inside: avoid;
+      }
+
+      .no-break-after {
+        break-after: avoid;
       }
 
       .title-page {
@@ -125,13 +129,23 @@
 
 <body>
   <div class="title-page">
+
     <header>
       <hr>
       <h1>School of Bowing Technique, Op. 2, Book 1</h1>
+      
       <h2>Otakar Sevcik</h2>
+      
     </header>
   </div>
+  <header>
+    <h1>School of Bowing Technique, Op. 2, Book 1</h1>
+    
+    <h1>Otakar Sevcik</h1>
+    
+  </header>
 
+  <!-- TODO: title page -->
   <!-- CHAPTER HEADER -->
   <header>
     <h1>Section I</h1>
@@ -139,11 +153,10 @@
   <!-- EXERCISE HEADER -->
   <section>
     <h2>No. 1</h2>
-    <hgroup>
+    <hgroup class="no-break-after">
       <h3>How to hold the bow</h3>
-
-      <p>Practice the following example with very little bow length. 1. In the Middle, 2. At the tip, 3. At the Frog.
-        During the pauses, allow the bow to rest on the stringand count the beats of the bar out loud.</p>
+      
+      <p>Practice the following example with very little bow length. 1. In the Middle, 2. At the tip, 3. At the Frog. During the pauses, allow the bow to rest on the stringand count the beats of the bar out loud.</p>
     </hgroup>
     <!-- MUSIC GROUPS -->
     <div class="no-break">
@@ -155,44 +168,31 @@
   <!-- EXERCISE HEADER -->
   <section>
     <h2>No. 2</h2>
-    <hgroup>
+    <hgroup class="no-break-after">
       <h3>Movements of the bow</h3>
-
+      
       <p>Play the 18 examples below in the following six ways</p>
     </hgroup>
     <!-- MUSIC GROUPS -->
     <h3 class="no-break">Variants</h3>
     <div class="no-break">
-      <p><em>Whole Bow</em></p>
       <lilypondfile>
         ./no-2/no-2-variants-1.ly
-      </lilypondfile>
-    </div>
-    <div class="no-break">
-      <p><em>Half Bow</em></p>
-      <lilypondfile>
-        ./no-2/no-2-variants-2.ly
-      </lilypondfile>
-    </div>
-    <div class="no-break">
-      <p><em>In the middle</em></p>
-      <lilypondfile>
-        ./no-2/no-2-variants-3.ly
       </lilypondfile>
     </div>
     <h3 class="no-break">Examples</h3>
     <div class="no-break">
       <lilypondfile>
-        ./no-2/no-2-examples-4.ly
+        ./no-2/no-2-examples-1.ly
       </lilypondfile>
     </div>
   </section>
   <!-- EXERCISE HEADER -->
   <section>
     <h2>No. 3</h2>
-    <hgroup>
+    <hgroup class="no-break-after">
       <h3>Rhythmic exericses and dividing the bow length</h3>
-
+      
       <p>Examples in whole notes with 57 variants. Practice the whole example with each variant.</p>
     </hgroup>
     <!-- MUSIC GROUPS -->
@@ -229,18 +229,26 @@
       </lilypondfile>
     </div>
     <div class="no-break">
-      <p><em>One-third of the bow</em></p>
+      <p><em>Pichettato (Short)</em></p>
       <lilypondfile>
         ./no-3/no-3-variants-5.ly
       </lilypondfile>
     </div>
+    <div class="no-break">
+      <p><em>One-third of the bow</em></p>
+      <lilypondfile>
+        ./no-3/no-3-variants-6.ly
+      </lilypondfile>
+    </div>
   </section>
+  <div class="break"></div>
+  
   <!-- EXERCISE HEADER -->
   <section>
     <h2>No. 4</h2>
-    <hgroup>
-      <h3>Study in half-notes with 75 variants</h3>
-
+    <hgroup class="no-break-after">
+      <h3>Study in half-notes with 75  variants</h3>
+      
     </hgroup>
     <!-- MUSIC GROUPS -->
     <h3 class="no-break">Examples</h3>
@@ -302,11 +310,10 @@
   <!-- EXERCISE HEADER -->
   <section>
     <h2>No. 5</h2>
-    <hgroup>
+    <hgroup class="no-break-after">
       <h3>Detached and hopping styles of bowing</h3>
-
-      <p>Study in quarter-notes. In order to develop the bowing in the high poisitions, each Variant must be practiced
-        in the 6th position as well (See No. 8).</p>
+      
+      <p>Study in quarter-notes. In order to develop the bowing in the high poisitions, each Variant must be practiced in the 6th position as well (See No. 8).</p>
     </hgroup>
     <!-- MUSIC GROUPS -->
     <h3 class="no-break">Examples</h3>
@@ -446,7 +453,7 @@
   <!-- EXERCISE HEADER -->
   <section>
     <h2>No. 6</h2>
-    <hgroup>
+    <hgroup class="no-break-after">
       <p>Study in eighth-notes with 214 changes in bowing styles. Also play in 7th position (See No. 10)</p>
     </hgroup>
     <!-- MUSIC GROUPS -->
@@ -514,7 +521,7 @@
   <!-- EXERCISE HEADER -->
   <section>
     <h2>No. 7</h2>
-    <hgroup>
+    <hgroup class="no-break-after">
       <p>Study in eighth-notes in 6/8 time, with 91 changes in the bowing styles. Also in 5th position (See No. 9).</p>
     </hgroup>
     <!-- MUSIC GROUPS -->
@@ -570,7 +577,7 @@
   <!-- EXERCISE HEADER -->
   <section>
     <h2>No. 8</h2>
-    <hgroup>
+    <hgroup class="no-break-after">
       <p>With the bowings of No. 5</p>
     </hgroup>
     <!-- MUSIC GROUPS -->
@@ -583,7 +590,7 @@
   <!-- EXERCISE HEADER -->
   <section>
     <h2>No. 9</h2>
-    <hgroup>
+    <hgroup class="no-break-after">
       <p>With the bowings of No. 7</p>
     </hgroup>
     <!-- MUSIC GROUPS -->
@@ -596,7 +603,7 @@
   <!-- EXERCISE HEADER -->
   <section>
     <h2>No. 10</h2>
-    <hgroup>
+    <hgroup class="no-break-after">
       <p>With the bowings of No. 6</p>
     </hgroup>
     <!-- MUSIC GROUPS -->
@@ -609,7 +616,7 @@
   <!-- EXERCISE HEADER -->
   <section>
     <h2>No. 11</h2>
-    <hgroup>
+    <hgroup class="no-break-after">
       <p>With the bowings of 1 to 198 in No. 6</p>
     </hgroup>
     <!-- MUSIC GROUPS -->
@@ -622,7 +629,7 @@
   <!-- EXERCISE HEADER -->
   <section>
     <h2>No. 12</h2>
-    <hgroup>
+    <hgroup class="no-break-after">
       <p>With the bowings of 1 to 198 in No. 6</p>
     </hgroup>
     <!-- MUSIC GROUPS -->
