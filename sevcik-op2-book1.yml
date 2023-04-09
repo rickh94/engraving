@@ -38,17 +38,17 @@ chapters:
             heading: "Variants"
             subheading: "Rest the bow on the string during the pauses"
             music:
-              - id: 1
+              - id: 1_15
                 instructions: "Whole Bow"
-              - id: 2
+              - id: 16_24
                 instructions: "Half Bow"
-              - id: 3
+              - id: 25_32
                 instructions: "Half and Whole Bows"
-              - id: 4
+              - id: 33_39
                 instructions: "In the middle"
-              - id: 5
+              - id: 40_46
                 instructions: "Pichettato (Short)"
-              - id: 6
+              - id: 47_57
                 instructions: "One-third of the bow"
       - title: "No. 4"
         break_before: true
@@ -61,21 +61,21 @@ chapters:
           - id: variants
             heading: "Variants"
             music:
-              - id: 1
+              - id: 1_14
                 instructions: "Whole bow"
-              - id: 2
+              - id: 15_25
                 instructions: "Half Bow"
-              - id: 3
+              - id: 26_33
                 instructions: "Whole and half bow"
-              - id: 4
+              - id: 34_38
                 instructions: "In the middle"
-              - id: 5
+              - id: 39_53
                 instructions: "Legato"
-              - id: 6
+              - id: 54_61
                 instructions: "Staccato"
-              - id: 7
+              - id: 62_69
                 instructions: "One-third of the bow"
-              - id: 8
+              - id: 70_75
                 instructions: "Dotted quarter notes"
       - title: "No. 5"
         subtitle: "Detached and hopping styles of bowing"
@@ -88,47 +88,47 @@ chapters:
           - id: variants
             heading: "Variants"
             music:
-              - id: 1
+              - id: 1_4
                 instructions: "Whole Bow"
-              - id: 2
+              - id: 5_8
                 instructions: "Half Bow"
-              - id: 3
+              - id: 9_14
                 instructions: "In the Middle"
-              - id: 4
+              - id: 15_27
                 instructions: "Legato"
-              - id: 5
+              - id: 28_39 
                 instructions: "Third of the Bow"
-              - id: 6
+              - id: 28_39 
                 instructions: "Dotted quarter notes"
-              - id: 7
+              - id: 28_39
                 instructions: "Staccato"
-              - id: 8
+              - id: 67_79 
                 instructions: "Very small bows"
-              - id: 9
+              - id: 80_101
                 instructions: "With only the wrist"
-              - id: 10
+              - id: 102_117 
                 instructions: "Syncopated Legato notes"
-              - id: 11
+              - id: 118_135 
                 instructions: "Dotted eighth-notes"
-              - id: 12
+              - id: 136_190
                 instructions: "Staccato from the wrist"
-              - id: 13
+              - id: 191_195
                 instructions: "Viotti's bowing style"
-              - id: 14
+              - id: 196_220
                 instructions: "Stroke as if thrown"
-              - id: 15
+              - id: 221_224
                 instructions: "Sautillé (Hopping)"
-              - id: 16
+              - id: 225_234
                 instructions: "Flying staccato"
-              - id: 17
+              - id: 235_242
                 instructions: "Thrown Staccato"
-              - id: 18
+              - id: 243_246
                 instructions: "Down bow at the frog"
-              - id: 19
+              - id: 247_249
                 instructions: "Up bow at the frog"
-              - id: 20
+              - id: 250_252
                 instructions: "Up bow at the tip as if striking"
-              - id: 21
+              - id: 253_260
                 instructions: "Crescendo-decrescendo"
       - title: "No. 6"
         instructions: "Study in eighth-notes with 214 changes in bowing styles. Also play in 7th position (See No. 10)"
@@ -139,23 +139,23 @@ chapters:
               - id: 1
           - id: variants
             music:
-              - id: 1
+              - id: 1_38
                 instructions: "Bowing styles"
-              - id: 2
+              - id: 39_98
                 instructions: "From the wrist"
-              - id: 3
+              - id: 99_109
                 instructions: "Syncopes"
-              - id: 4
+              - id: 110_160
                 instructions: "Staccato"
-              - id: 5
+              - id: 161_193
                 instructions: "Spiccato"
-              - id: 6
+              - id: 194_198
                 instructions: "Sautillé"
-              - id: 7
+              - id: 199_202
                 instructions: "At the Frog"
-              - id: 8
+              - id: 203_206
                 instructions: "Strike with the tip"
-              - id: 9
+              - id: 207_214
                 instructions: "Crescendo-decrescendo"
       - title: "No. 7"
         instructions: "Study in eighth-notes in 6/8 time, with 91 changes in the bowing styles. Also in 5th position (See No. 9)."
@@ -167,19 +167,18 @@ chapters:
           - id: variants
             heading: "Variants"
             music:
-              - id: 1
+              - id: 1_25
                 instructions: "Bowing styles"
-              - id: 2
+              - id: 26_41
                 instructions: "Dotted eighth-notes"
-              - id: 3
+              - id: 42_57
                 instructions: "From the wrist"
-              - id: 4
+              - id: 58_70
                 instructions: "Dotted sixteenth-notes"
-              - id: 5
+              - id: 71_86
                 instructions: "Spiccato"
-              - id: 6
+              - id: 87_91
                 instructions: "Sautillé"
-              - id: 7
       - title: "No. 8"
         instructions: "With the bowings of No. 5"
         groups:
