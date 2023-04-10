@@ -38,7 +38,7 @@
             | e4 -.
             ^\markup \translate #'(-2 . 0) \bold "29."
             _\markup \teeny "L.H."
-            | e4 -. g2 _\markup \teeny "W."
+             e4 -. g2 _\markup \teeny "W."
             | a4 -. _\markup \teeny "U.H." a4 -. f2 _\markup \teeny "W."
             \bar "||"
             \break
