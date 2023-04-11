@@ -1,0 +1,1265 @@
+title: "School of Violin Technics, Book 1"
+subtitle: "Exercise for Promoting Dexterity in the various Positions"
+composer: "Henry Schradieck"
+chapters:
+  - header: ""
+    exercises:
+      - title: "I. Exercises on one string"
+        groups:
+          - id: 1
+            heading: "1."
+            music:
+              - id: 1
+          - id: 2
+            heading: "2."
+            music:
+              - id: 1
+          - id: 3
+            heading: "3."
+            music:
+              - id: 1
+          - id: 4
+            heading: "4."
+            music:
+              - id: 1
+          - id: 4
+            heading: "4."
+            music:
+              - id: 1
+          - id: 5
+            heading: "5."
+            music:
+              - id: 1
+          - id: 6
+            heading: "6."
+            music:
+              - id: 1
+          - id: 7
+            heading: "7."
+            music:
+              - id: 1
+          - id: 8
+            heading: "8."
+            music:
+              - id: 1
+          - id: 9
+            heading: "9."
+            music:
+              - id: 1
+          - id: 10
+            heading: "10."
+            music:
+              - id: 1
+          - id: 11
+            heading: "11."
+            music:
+              - id: 1
+          - id: 12
+            heading: "12."
+            music:
+              - id: 1
+          - id: 13
+            heading: "13."
+            music:
+              - id: 1
+          - id: 14
+            heading: "14."
+            music:
+              - id: 1
+          - id: 15
+            heading: "15."
+            music:
+              - id: 1
+          - id: 16
+            heading: "16."
+            music:
+              - id: 1
+          - id: 17
+            heading: "17."
+            music:
+              - id: 1
+          - id: 18
+            heading: "18."
+            music:
+              - id: 1
+          - id: 19
+            heading: "19."
+            music:
+              - id: 1
+          - id: 20
+            heading: "20."
+            music:
+              - id: 1
+          - id: 21
+            heading: "21."
+            music:
+              - id: 1
+          - id: 22
+            heading: "22."
+            music:
+              - id: 1
+          - id: 23
+            heading: "23."
+            music:
+              - id: 1
+          - id: 24
+            heading: "24."
+            music:
+              - id: 1
+          - id: 25
+            heading: "25."
+            music:
+              - id: 1
+      - title: "II."
+        groups:
+          - id: 1
+            heading: "1."
+            music:
+              - id: 1
+          - id: 2
+            heading: "2."
+            music:
+              - id: 1
+          - id: 3
+            heading: "3."
+            music:
+              - id: 1
+          - id: 4
+            heading: "4."
+            music:
+              - id: 1
+          - id: 4
+            heading: "4."
+            music:
+              - id: 1
+          - id: 5
+            heading: "5."
+            music:
+              - id: 1
+          - id: 6
+            heading: "6."
+            music:
+              - id: 1
+          - id: 7
+            heading: "7."
+            music:
+              - id: 1
+          - id: 8
+            heading: "8."
+            music:
+              - id: 1
+          - id: 9
+            heading: "9."
+            music:
+              - id: 1
+          - id: 10
+            heading: "10."
+            music:
+              - id: 1
+          - id: 11
+            heading: "11."
+            music:
+              - id: 1
+          - id: 12
+            heading: "12."
+            music:
+              - id: 1
+      - title: "III. Exercises on two strings"
+        groups:
+          - id: 1
+            heading: "1."
+            music:
+              - id: 1
+          - id: 2
+            heading: "2."
+            music:
+              - id: 1
+          - id: 3
+            heading: "3."
+            music:
+              - id: 1
+          - id: 4
+            heading: "4."
+            music:
+              - id: 1
+          - id: 4
+            heading: "4."
+            music:
+              - id: 1
+          - id: 5
+            heading: "5."
+            music:
+              - id: 1
+          - id: 6
+            heading: "6."
+            music:
+              - id: 1
+          - id: 7
+            heading: "7."
+            music:
+              - id: 1
+          - id: 8
+            heading: "8."
+            music:
+              - id: 1
+          - id: 9
+            heading: "9."
+            music:
+              - id: 1
+          - id: 10
+            heading: "10."
+            music:
+              - id: 1
+          - id: 11
+            heading: "11."
+            music:
+              - id: 1
+          - id: 12
+            heading: "12."
+            music:
+              - id: 1
+          - id: 13
+            heading: "13."
+            music:
+              - id: 1
+          - id: 14
+            heading: "14."
+            music:
+              - id: 1
+          - id: 15
+            heading: "15."
+            music:
+              - id: 1
+          - id: 16
+            heading: "16."
+            music:
+              - id: 1
+      - title: "IV."
+        instructions: "Exercises to be practiced with wrist-movement only, keeping the right arm perfectly quiet."
+        groups:
+          - id: 1
+            heading: "1."
+            music:
+              - id: 1
+          - id: 2
+            heading: "2."
+            music:
+              - id: 1
+          - id: 3
+            heading: "3."
+            music:
+              - id: 1
+          - id: 4
+            heading: "4."
+            music:
+              - id: 1
+          - id: 4
+            heading: "4."
+            music:
+              - id: 1
+          - id: 5
+            heading: "5."
+            music:
+              - id: 1
+          - id: 6
+            heading: "6."
+            music:
+              - id: 1
+          - id: 7
+            heading: "7."
+            music:
+              - id: 1
+          - id: 8
+            heading: "8."
+            music:
+              - id: 1
+          - id: 9
+            heading: "9."
+            music:
+              - id: 1
+          - id: 10
+            heading: "10."
+            music:
+              - id: 1
+          - id: 11
+            heading: "11."
+            music:
+              - id: 1
+          - id: 12
+            heading: "12."
+            music:
+              - id: 1
+          - id: 13
+            heading: "13."
+            music:
+              - id: 1
+          - id: 14
+            heading: "14."
+            music:
+              - id: 1
+          - id: 15
+            heading: "15."
+            music:
+              - id: 1
+          - id: 16
+            heading: "16."
+            music:
+              - id: 1
+      - title: "V. Exercises on Three Strings"
+        groups:
+          - id: 1
+            heading: "1."
+            music:
+              - id: 1
+          - id: 2
+            heading: "2."
+            music:
+              - id: 1
+          - id: 3
+            heading: "3."
+            music:
+              - id: 1
+          - id: 4
+            heading: "4."
+            music:
+              - id: 1
+          - id: 4
+            heading: "4."
+            music:
+              - id: 1
+          - id: 5
+            heading: "5."
+            music:
+              - id: 1
+          - id: 6
+            heading: "6."
+            music:
+              - id: 1
+          - id: 7
+            heading: "7."
+            music:
+              - id: 1
+          - id: 8
+            heading: "8."
+            music:
+              - id: 1
+          - id: 9
+            heading: "9."
+            music:
+              - id: 1
+          - id: 10
+            heading: "10."
+            music:
+              - id: 1
+          - id: 11
+            heading: "11."
+            music:
+              - id: 1
+          - id: 12
+            heading: "12."
+            music:
+              - id: 1
+      - title: "VI. Exercises on Four Strings"
+        groups:
+          - id: 1
+            heading: "1."
+            music:
+              - id: 1
+          - id: 2
+            heading: "2."
+            music:
+              - id: 1
+          - id: 3
+            heading: "3."
+            music:
+              - id: 1
+          - id: 4
+            heading: "4."
+            music:
+              - id: 1
+          - id: 4
+            heading: "4."
+            music:
+              - id: 1
+          - id: 5
+            heading: "5."
+            music:
+              - id: 1
+          - id: 6
+            heading: "6."
+            music:
+              - id: 1
+          - id: 7
+            heading: "7."
+            music:
+              - id: 1
+          - id: 8
+            heading: "8."
+            music:
+              - id: 1
+          - id: 9
+            heading: "9."
+            music:
+              - id: 1
+          - id: 10
+            heading: "10."
+            music:
+              - id: 1
+          - id: 11
+            heading: "11."
+            music:
+              - id: 1
+      - title: "VII."
+        groups:
+          - id: 1
+            heading: "1."
+            music:
+              - id: 1
+          - id: 2
+            heading: "2."
+            music:
+              - id: 1
+          - id: 3
+            heading: "3."
+            music:
+              - id: 1
+          - id: 4
+            heading: "4."
+            music:
+              - id: 1
+          - id: 4
+            heading: "4."
+            music:
+              - id: 1
+          - id: 5
+            heading: "5."
+            music:
+              - id: 1
+          - id: 6
+            heading: "6."
+            music:
+              - id: 1
+          - id: 7
+            heading: "7."
+            music:
+              - id: 1
+          - id: 8
+            heading: "8."
+            music:
+              - id: 1
+          - id: 9
+            heading: "9."
+            music:
+              - id: 1
+      - title: "VIII. Exercises in the Second Position"
+        groups:
+          - id: 1
+            heading: "1."
+            music:
+              - id: 1
+          - id: 2
+            heading: "2."
+            music:
+              - id: 1
+          - id: 3
+            heading: "3."
+            music:
+              - id: 1
+          - id: 4
+            heading: "4."
+            music:
+              - id: 1
+          - id: 4
+            heading: "4."
+            music:
+              - id: 1
+          - id: 5
+            heading: "5."
+            music:
+              - id: 1
+          - id: 6
+            heading: "6."
+            music:
+              - id: 1
+          - id: 7
+            heading: "7."
+            music:
+              - id: 1
+          - id: 8
+            heading: "8."
+            music:
+              - id: 1
+          - id: 9
+            heading: "9."
+            music:
+              - id: 1
+          - id: 10
+            heading: "10."
+            music:
+              - id: 1
+          - id: 11
+            heading: "11."
+            music:
+              - id: 1
+          - id: 12
+            heading: "12."
+            music:
+              - id: 1
+      - title: "IX. Exercises in the First and Second Positions"
+        groups:
+          - id: 1
+            heading: "1."
+            music:
+              - id: 1
+          - id: 2
+            heading: "2."
+            music:
+              - id: 1
+          - id: 3
+            heading: "3."
+            music:
+              - id: 1
+          - id: 4
+            heading: "4."
+            music:
+              - id: 1
+          - id: 4
+            heading: "4."
+            music:
+              - id: 1
+          - id: 5
+            heading: "5."
+            music:
+              - id: 1
+          - id: 6
+            heading: "6."
+            music:
+              - id: 1
+          - id: 7
+            heading: "7."
+            music:
+              - id: 1
+          - id: 8
+            heading: "8."
+            music:
+              - id: 1
+          - id: 9
+            heading: "9."
+            music:
+              - id: 1
+          - id: 10
+            heading: "10."
+            music:
+              - id: 1
+      - title: "X. Exercises in the Third Position"
+        groups:
+          - id: 1
+            heading: "1."
+            music:
+              - id: 1
+          - id: 2
+            heading: "2."
+            music:
+              - id: 1
+          - id: 3
+            heading: "3."
+            music:
+              - id: 1
+          - id: 4
+            heading: "4."
+            music:
+              - id: 1
+          - id: 4
+            heading: "4."
+            music:
+              - id: 1
+          - id: 5
+            heading: "5."
+            music:
+              - id: 1
+          - id: 6
+            heading: "6."
+            music:
+              - id: 1
+          - id: 7
+            heading: "7."
+            music:
+              - id: 1
+          - id: 8
+            heading: "8."
+            music:
+              - id: 1
+          - id: 9
+            heading: "9."
+            music:
+              - id: 1
+          - id: 10
+            heading: "10."
+            music:
+              - id: 1
+          - id: 11
+            heading: "11."
+            music:
+              - id: 1
+          - id: 12
+            heading: "12."
+            music:
+              - id: 1
+      - title: "XI."
+        subtitle: "Exercises in the First, Second, and Third Positions"
+        groups:
+          - id: 1
+            heading: "1."
+            music:
+              - id: 1
+          - id: 2
+            heading: "2."
+            music:
+              - id: 1
+          - id: 3
+            heading: "3."
+            music:
+              - id: 1
+          - id: 4
+            heading: "4."
+            music:
+              - id: 1
+          - id: 4
+            heading: "4."
+            music:
+              - id: 1
+          - id: 5
+            heading: "5."
+            music:
+              - id: 1
+          - id: 6
+            heading: "6."
+            music:
+              - id: 1
+          - id: 7
+            heading: "7."
+            music:
+              - id: 1
+          - id: 8
+            heading: "8."
+            music:
+              - id: 1
+          - id: 9
+            heading: "9."
+            music:
+              - id: 1
+          - id: 10
+            heading: "10."
+            music:
+              - id: 1
+          - id: 11
+            heading: "11."
+            music:
+              - id: 1
+          - id: 12
+            heading: "12."
+            music:
+              - id: 1
+      - title: "XII. Exercises in the Fourth Position"
+        groups:
+          - id: 1
+            heading: "1."
+            music:
+              - id: 1
+          - id: 2
+            heading: "2."
+            music:
+              - id: 1
+          - id: 3
+            heading: "3."
+            music:
+              - id: 1
+          - id: 4
+            heading: "4."
+            music:
+              - id: 1
+          - id: 4
+            heading: "4."
+            music:
+              - id: 1
+          - id: 5
+            heading: "5."
+            music:
+              - id: 1
+          - id: 6
+            heading: "6."
+            music:
+              - id: 1
+          - id: 7
+            heading: "7."
+            music:
+              - id: 1
+          - id: 8
+            heading: "8."
+            music:
+              - id: 1
+          - id: 9
+            heading: "9."
+            music:
+              - id: 1
+          - id: 10
+            heading: "10."
+            music:
+              - id: 1
+          - id: 11
+            heading: "11."
+            music:
+              - id: 1
+          - id: 12
+            heading: "12."
+            music:
+              - id: 1
+          - id: 13
+            heading: "13."
+            music:
+              - id: 1
+          - id: 14
+            heading: "14."
+            music:
+              - id: 1
+          - id: 15
+            heading: "15."
+            music:
+              - id: 1
+          - id: 16
+            heading: "16."
+            music:
+              - id: 1
+          - id: 17
+            heading: "17."
+            music:
+              - id: 1
+          - id: 18
+            heading: "18."
+            music:
+              - id: 1
+      - title: "XIII."
+        subtitle: "Exercises in the First, Second, Third, and Fourth Positions"
+        groups:
+          - id: 1
+            heading: "1."
+            music:
+              - id: 1
+          - id: 2
+            heading: "2."
+            music:
+              - id: 1
+          - id: 3
+            heading: "3."
+            music:
+              - id: 1
+          - id: 4
+            heading: "4."
+            music:
+              - id: 1
+          - id: 4
+            heading: "4."
+            music:
+              - id: 1
+          - id: 5
+            heading: "5."
+            music:
+              - id: 1
+          - id: 6
+            heading: "6."
+            music:
+              - id: 1
+          - id: 7
+            heading: "7."
+            music:
+              - id: 1
+          - id: 8
+            heading: "8."
+            music:
+              - id: 1
+          - id: 9
+            heading: "9."
+            music:
+              - id: 1
+          - id: 10
+            heading: "10."
+            music:
+              - id: 1
+      - title: "XIV. Exercises in the Fifth Position"
+        groups:
+          - id: 1
+            heading: "1."
+            music:
+              - id: 1
+          - id: 2
+            heading: "2."
+            music:
+              - id: 1
+          - id: 3
+            heading: "3."
+            music:
+              - id: 1
+          - id: 4
+            heading: "4."
+            music:
+              - id: 1
+          - id: 4
+            heading: "4."
+            music:
+              - id: 1
+          - id: 5
+            heading: "5."
+            music:
+              - id: 1
+          - id: 6
+            heading: "6."
+            music:
+              - id: 1
+          - id: 7
+            heading: "7."
+            music:
+              - id: 1
+          - id: 8
+            heading: "8."
+            music:
+              - id: 1
+          - id: 9
+            heading: "9."
+            music:
+              - id: 1
+          - id: 10
+            heading: "10."
+            music:
+              - id: 1
+          - id: 11
+            heading: "11."
+            music:
+              - id: 1
+          - id: 12
+            heading: "12."
+            music:
+              - id: 1
+          - id: 13
+            heading: "13."
+            music:
+              - id: 1
+          - id: 14
+            heading: "14."
+            music:
+              - id: 1
+      - title: "XV. Exercises passing through Five Positions"
+        groups:
+          - id: 1
+            heading: "1."
+            music:
+              - id: 1
+          - id: 2
+            heading: "2."
+            music:
+              - id: 1
+          - id: 3
+            heading: "3."
+            music:
+              - id: 1
+          - id: 4
+            heading: "4."
+            music:
+              - id: 1
+          - id: 4
+            heading: "4."
+            music:
+              - id: 1
+          - id: 5
+            heading: "5."
+            music:
+              - id: 1
+          - id: 6
+            heading: "6."
+            music:
+              - id: 1
+          - id: 7
+            heading: "7."
+            music:
+              - id: 1
+          - id: 8
+            heading: "8."
+            music:
+              - id: 1
+          - id: 9
+            heading: "9."
+            music:
+              - id: 1
+          - id: 10
+            heading: "10."
+            music:
+              - id: 1
+          - id: 11
+            heading: "11."
+            music:
+              - id: 1
+          - id: 12
+            heading: "12."
+            music:
+              - id: 1
+          - id: 13
+            heading: "13."
+            music:
+              - id: 1
+          - id: 14
+            heading: "14."
+            music:
+              - id: 1
+          - id: 15
+            heading: "15."
+            music:
+              - id: 1
+          - id: 16
+            heading: "16."
+            music:
+              - id: 1
+          - id: 17
+            heading: "17."
+            music:
+              - id: 1
+      - title: "XVI. Exercises in the Sixth Position"
+        groups:
+          - id: 1
+            heading: "1."
+            music:
+              - id: 1
+          - id: 2
+            heading: "2."
+            music:
+              - id: 1
+          - id: 3
+            heading: "3."
+            music:
+              - id: 1
+          - id: 4
+            heading: "4."
+            music:
+              - id: 1
+          - id: 4
+            heading: "4."
+            music:
+              - id: 1
+          - id: 5
+            heading: "5."
+            music:
+              - id: 1
+          - id: 6
+            heading: "6."
+            music:
+              - id: 1
+          - id: 7
+            heading: "7."
+            music:
+              - id: 1
+          - id: 8
+            heading: "8."
+            music:
+              - id: 1
+          - id: 9
+            heading: "9."
+            music:
+              - id: 1
+          - id: 10
+            heading: "10."
+            music:
+              - id: 1
+          - id: 11
+            heading: "11."
+            music:
+              - id: 1
+          - id: 12
+            heading: "12."
+            music:
+              - id: 1
+          - id: 13
+            heading: "13."
+            music:
+              - id: 1
+          - id: 14
+            heading: "14."
+            music:
+              - id: 1
+          - id: 15
+            heading: "15."
+            music:
+              - id: 1
+      - title: "XVII. Exercises passing through six positions"
+        groups:
+          - id: 1
+            heading: "1."
+            music:
+              - id: 1
+          - id: 2
+            heading: "2."
+            music:
+              - id: 1
+          - id: 3
+            heading: "3."
+            music:
+              - id: 1
+          - id: 4
+            heading: "4."
+            music:
+              - id: 1
+          - id: 4
+            heading: "4."
+            music:
+              - id: 1
+          - id: 5
+            heading: "5."
+            music:
+              - id: 1
+          - id: 6
+            heading: "6."
+            music:
+              - id: 1
+          - id: 7
+            heading: "7."
+            music:
+              - id: 1
+          - id: 8
+            heading: "8."
+            music:
+              - id: 1
+          - id: 9
+            heading: "9."
+            music:
+              - id: 1
+          - id: 10
+            heading: "10."
+            music:
+              - id: 1
+          - id: 11
+            heading: "11."
+            music:
+              - id: 1
+          - id: 12
+            heading: "12."
+            music:
+              - id: 1
+      - title: "XVIII. Exercises in the Seventh Position"
+        groups:
+          - id: 1
+            heading: "1."
+            music:
+              - id: 1
+          - id: 2
+            heading: "2."
+            music:
+              - id: 1
+          - id: 3
+            heading: "3."
+            music:
+              - id: 1
+          - id: 4
+            heading: "4."
+            music:
+              - id: 1
+          - id: 4
+            heading: "4."
+            music:
+              - id: 1
+          - id: 5
+            heading: "5."
+            music:
+              - id: 1
+          - id: 6
+            heading: "6."
+            music:
+              - id: 1
+          - id: 7
+            heading: "7."
+            music:
+              - id: 1
+          - id: 8
+            heading: "8."
+            music:
+              - id: 1
+          - id: 9
+            heading: "9."
+            music:
+              - id: 1
+          - id: 10
+            heading: "10."
+            music:
+              - id: 1
+          - id: 11
+            heading: "11."
+            music:
+              - id: 1
+          - id: 12
+            heading: "12."
+            music:
+              - id: 1
+          - id: 13
+            heading: "13."
+            music:
+              - id: 1
+          - id: 14
+            heading: "14."
+            music:
+              - id: 1
+      - title: "XIX."
+        groups:
+          - id: 1
+            heading: "1."
+            music:
+              - id: 1
+          - id: 2
+            heading: "2."
+            music:
+              - id: 1
+          - id: 3
+            heading: "3."
+            music:
+              - id: 1
+          - id: 4
+            heading: "4."
+            music:
+              - id: 1
+          - id: 4
+            heading: "4."
+            music:
+              - id: 1
+          - id: 5
+            heading: "5."
+            music:
+              - id: 1
+          - id: 6
+            heading: "6."
+            music:
+              - id: 1
+          - id: 7
+            heading: "7."
+            music:
+              - id: 1
+          - id: 8
+            heading: "8."
+            music:
+              - id: 1
+          - id: 9
+            heading: "9."
+            music:
+              - id: 1
+          - id: 10
+            heading: "10."
+            music:
+              - id: 1
+          - id: 11
+            heading: "11."
+            music:
+              - id: 1
+          - id: 12
+            heading: "12."
+            music:
+              - id: 1
+          - id: 13
+            heading: "13."
+            music:
+              - id: 1
+          - id: 14
+            heading: "14."
+            music:
+              - id: 1
+          - id: 15
+            heading: "15."
+            music:
+              - id: 1
+          - id: 16
+            heading: "16."
+            music:
+              - id: 1
+          - id: 17
+            heading: "17."
+            music:
+              - id: 1
+      - title: "XX."
+        groups:
+          - id: 1
+            heading: "1."
+            music:
+              - id: 1
+          - id: 2
+            heading: "2."
+            music:
+              - id: 1
+          - id: 3
+            heading: "3."
+            music:
+              - id: 1
+          - id: 4
+            heading: "4."
+            music:
+              - id: 1
+          - id: 4
+            heading: "4."
+            music:
+              - id: 1
+          - id: 5
+            heading: "5."
+            music:
+              - id: 1
+          - id: 6
+            heading: "6."
+            music:
+              - id: 1
+          - id: 7
+            heading: "7."
+            music:
+              - id: 1
+          - id: 8
+            heading: "8."
+            music:
+              - id: 1
+          - id: 9
+            heading: "9."
+            music:
+              - id: 1
+          - id: 10
+            heading: "10."
+            music:
+              - id: 1
+          - id: 11
+            heading: "11."
+            music:
+              - id: 1
+          - id: 12
+            heading: "12."
+            music:
+              - id: 1
+          - id: 13
+            heading: "13."
+            music:
+              - id: 1
+          - id: 14
+            heading: "14."
+            music:
+              - id: 1
+          - id: 15
+            heading: "15."
+            music:
+              - id: 1
+          - id: 16
+            heading: "16."
+            music:
+              - id: 1
+          - id: 17
+            heading: "17."
+            music:
+              - id: 1
+          - id: 18
+            heading: "18."
+            music:
+              - id: 1
+          - id: 19
+            heading: "19."
+            music:
+              - id: 1
+          - id: 20
+            heading: "20."
+            music:
+              - id: 1

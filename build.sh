@@ -1,10 +1,14 @@
 #!/usr/bin/env bash
-BUILDDIR=$PWD/build
-LILYPOND=$PWD/.lilypond
+BUILDDIR="$PWD/build"
+LILYPOND="$PWD/.lilypond"
 BASEDIR=$PWD
 
-mkdir -p $BUILDDIR
-mkdir -p $LILYPOND
+if [ ! -d $BUILDDIR ]; then
+	mkdir -p $BUILDDIR
+fi
+if [ ! -d $BUILDDIR ]; then
+	mkdir -p $LILYPOND
+fi
 
 yum install -y wget gzip tar 
 
@@ -19,9 +23,13 @@ for dir in `ls -I .lilypond -I build -d */`; do
 	cd "$BASEDIR/$dir"
 	if [[ -f "build.sh" ]]; then
 		bash build.sh
-		mkdir $BUILDDIR/$dir
+		if [ ! -d $BUILDDIR/$dir ]; then
+			mkdir $BUILDDIR/$dir
+		fi
 		cp -r output/* $BUILDDIR/$dir
 	fi
 	cd $BASEDIR
 done
 cp $BASEDIR/index.html $BUILDDIR
+cp -r $BASEDIR/originals $BUILDDIR
+rm -rf $LILYPOND
