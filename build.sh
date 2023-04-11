@@ -6,18 +6,18 @@ BASEDIR=$PWD
 if [ ! -d $BUILDDIR ]; then
 	mkdir -p $BUILDDIR
 fi
-if [ ! -d $BUILDDIR ]; then
+if [ ! -d $LILYPOND ]; then
 	mkdir -p $LILYPOND
 fi
 
 yum install -y wget gzip tar 
 
 cd $LILYPOND
-wget https://gitlab.com/lilypond/lilypond/-/releases/v2.24.1/downloads/lilypond-2.24.1-linux-x86_64.tar.gz
-tar -xvf ./lilypond-2.24.1-linux-x86_64.tar.gz
+wget  https://gitlab.com/lilypond/lilypond/-/releases/v2.24.1/downloads/lilypond-2.24.1-linux-x86_64.tar.gz
+tar -xvf ./lilypond-2.24.1-linux-x86_64.tar.gz 
 cd $BASEDIR
 
-export PATH=$PATH:$LILYPOND/lilypond-2.14.1/bin
+export PATH=$LILYPOND/lilypond-2.14.1/bin:$PATH
 
 for dir in `ls -I .lilypond -I build -d */`; do
 	cd "$BASEDIR/$dir"
