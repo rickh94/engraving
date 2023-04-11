@@ -17,7 +17,7 @@ wget  https://gitlab.com/lilypond/lilypond/-/releases/v2.24.1/downloads/lilypond
 tar -xvf ./lilypond-2.24.1-linux-x86_64.tar.gz 
 cd $BASEDIR
 
-export PATH=$LILYPOND/lilypond-2.14.1/bin:$PATH
+export PATH=$LILYPOND/lilypond-2.24.1/bin:$PATH
 
 for dir in `ls -I .lilypond -I build -d */`; do
 	cd "$BASEDIR/$dir"
