@@ -1,11 +1,12 @@
 \version "2.24.1"
 \language "english"
 \paper {
-    #'(set-paper-size "letter")
+    #(set-paper-size "letter")
 }
 
 \score {
     \layout {
+        indent = #0
         \context {
             \Score
             \omit BarNumber
@@ -45,7 +46,7 @@
             | a2 ( _\markup \translate #'(1 . 0) \teeny "W. " r4 f4 )
             \bar "||"
             | e4 -. ( 
-            ^\markup \translate #'(-2 . 0) \bold "58.")
+            ^\markup \translate #'(-2 . 0) \bold "58."
             e4 -. ) g2 _\markup \teeny "W."
             | a4 -. ( a4 -. ) f2
             \bar "||"

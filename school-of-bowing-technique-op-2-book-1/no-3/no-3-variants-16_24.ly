@@ -1,11 +1,12 @@
 \version "2.24.1"
 \language "english"
 \paper {
-#'(set-paper-size "letter")
+	#(set-paper-size "letter")
 }
 
 \score {
 	\layout {
+	  indent = #0
 		\context {
 			\Score
 			\omit BarNumber
@@ -18,10 +19,10 @@
 			\key c \major 
 			\time 4/4
 			\tempo \markup \tiny \concat { \note {4} #1 " = 66"}
-				g4 ^\markup \translate #'(-6 . 0) \bold "16." ^\markup \teeny { "H." } 
-				_\markup \italic \small "First with the lower half, then with the upper half"
-				r4
-				g4 ^\markup \teeny { "H." } r4
+			g4 ^\markup \translate #'(-6 . 0) \bold "16." ^\markup \teeny { "H." } 
+			_\markup \italic \small "First with the lower half, then with the upper half"
+			r4
+			g4 ^\markup \teeny { "H." } r4
 			| a4 r4 a4 r4
 			\bar "||"
 			| g2  ^\markup \translate #'(-4 . 0) \bold "17."
@@ -52,6 +53,6 @@
 			| g4 ^\markup \translate #'(-4 . 0) \bold "24." _\markup \teeny { "H." } r4 g4 _\markup \teeny { "H." }
 			| a4 r4 a4
 			\bar "||"
-  	}
+		}
 	}
 }

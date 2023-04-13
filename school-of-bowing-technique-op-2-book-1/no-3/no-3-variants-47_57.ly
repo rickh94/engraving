@@ -1,12 +1,13 @@
 \version "2.24.1"
 \language "english"
 \paper {
-  #'(set-paper-size "letter")
+  #(set-paper-size "letter")
 }
 
 
 \score {
   \layout {
+    indent = #0
     \context {
       \Score
       \omit BarNumber
