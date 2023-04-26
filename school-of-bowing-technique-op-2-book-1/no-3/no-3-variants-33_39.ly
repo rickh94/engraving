@@ -1,10 +1,11 @@
 \version "2.24.1"
 \language "english"
 \paper {
-  #'(set-paper-size "letter")
+  #(set-paper-size "letter")
 }
 
 \layout {
+  indent = #0
   #(layout-set-staff-size 12)
 }
 

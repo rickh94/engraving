@@ -1,11 +1,18 @@
 \version "2.24.1"
 \language "english"
 \paper {
-    #'(set-paper-size "letter")
+    #(set-paper-size "letter")
 }
 
 \score {
-    \relative {
-        a4 b c d
+    \layout {
+        indent = #0
+    }
+    \new Staff {
+        \relative {
+            a4 b c d
+        }
     }
 }
+
+% vim: se sw=2 ts=2:

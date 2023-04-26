@@ -78,6 +78,7 @@ chapters:
               - id: 70_75
                 instructions: "Dotted quarter notes"
       - title: "No. 5"
+        break_before: true
         subtitle: "Detached and hopping styles of bowing"
         instructions: "Study in quarter-notes. In order to develop the bowing in the high poisitions, each Variant must be practiced in the 6th position as well (See No. 8)."
         groups:
